@@ -1,0 +1,19 @@
+project_id = "rkihrkwwwjortzeznxxq"
+
+[functions.motiur-chat]
+verify_jwt = false
+
+[functions.translate-text]
+verify_jwt = false
+
+[functions.create-shipment]
+verify_jwt = false
+
+[functions.send-otp]
+verify_jwt = false
+
+[functions.verify-otp]
+verify_jwt = false
+
+[functions.manage-order]
+verify_jwt = false

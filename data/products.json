@@ -1,0 +1,345 @@
+[
+  {
+    "id": "falah-p1",
+    "slug": "cap-ready-hijab",
+    "title": "Cap Ready Hijab",
+    "category": "Hijab",
+    "basePrice": 250,
+    "fabric": "Almas",
+    "description": "মাত্র ১০ সেকেন্ডেই সহজে ও পিন ছাড়া পরার উপযোগী ক্যাপ রেডি হিজাব।",
+    "sizeOptions": [
+      { "size": "80 x 28 inch", "price": 250 },
+      { "size": "80 x 30 inch", "price": 280 },
+      { "size": "80 x 34 inch", "price": 300 },
+      { "size": "80 x 36 inch", "price": 320 },
+      { "size": "80 x 38 inch", "price": 350 },
+      { "size": "90 x 38 inch", "price": 380 },
+      { "size": "100 x 40 inch", "price": 400 }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p2",
+    "slug": "daily-wear-essential-borkha",
+    "title": "Daily Wear Essential Borkha",
+    "category": "Abaya",
+    "basePrice": 550,
+    "description": "স্কুল, কলেজ, অফিস বা প্রতিদিনের ব্যবহারের জন্য আরামদায়ক ও বেস্ট সেলিং বোরখা।",
+    "fabricVariants": [
+      { "fabric": "Firdous Color", "price": 550 },
+      { "fabric": "Firdous Black", "price": 600 },
+      { "fabric": "Almas Color", "price": 600 },
+      { "fabric": "Almas Black", "price": 650 },
+      { "fabric": "Parada", "price": 650 },
+      { "fabric": "Dubai Cherry", "price": 700 }
+    ],
+    "wholesaleAvailable": true,
+    "customizable": true
+  },
+  {
+    "id": "falah-p3",
+    "slug": "sm-44-cherry-borkha-set",
+    "title": "SM 44 - Cherry Fabric Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 1400,
+    "regularPrice": 1750,
+    "fabric": "Dubai Cherry",
+    "readyColors": ["Bottle Green", "Onion", "Maroon"],
+    "setIncludes": [
+      "১২০ ইঞ্চি ঘেরের স্কার্ট",
+      "১২০ ইঞ্চি ঘেরের কুচি দেওয়া শর্ট বোরখা",
+      "১ পার্ট হিজাব",
+      "২ পার্ট হাফ নিকাব ও বাঁধার ফিতে"
+    ],
+    "customColorPrice": 1500,
+    "customizable": true
+  },
+  {
+    "id": "falah-p4",
+    "slug": "sm-19-hiranur-set",
+    "title": "SM 19 - Hiranur Abaya Set",
+    "category": "Abaya Set",
+    "basePrice": 1300,
+    "regularPrice": 1400,
+    "setIncludes": [
+      "১২০ ইঞ্চি ঘেরের স্কার্ট",
+      "১২০ ইঞ্চি ঘেরের কুচি দেওয়া শর্ট বোরখা",
+      "১ পার্ট কোন হিজাব",
+      "২ পার্ট হাফ নিকাব"
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p5",
+    "slug": "sm-79-hoodie-abaya-hijab-set",
+    "title": "SM 79 - Customize Abaya & Hijab",
+    "category": "Abaya Set",
+    "basePrice": 700,
+    "items": [
+      { "name": "Abaya (Almas Fabric)", "price": 700 },
+      { "name": "Hijab (Almas Fabric)", "price": 750 },
+      { "name": "Hijab (Firdous Fabric)", "price": 700 },
+      { "name": "Hijab (Diamond Georgette)", "price": 650 }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p6",
+    "slug": "sm-96-coat-inner-borkha-set",
+    "title": "SM 96 - Coat & Inner Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 1350,
+    "fabricVariants": [
+      { "fabric": "Firdous", "coatPrice": 750, "innerPrice": 650, "fullSetPrice": 1350 },
+      { "fabric": "Almas", "coatPrice": 800, "innerPrice": 700, "fullSetPrice": 1450 },
+      { "fabric": "Seltos", "coatPrice": 850, "innerPrice": 750, "fullSetPrice": 1550 }
+    ],
+    "setIncludes": ["কোট বোরখা", "ভেতরের ইনার বোরখা"],
+    "customizable": true
+  },
+  {
+    "id": "falah-p7",
+    "slug": "sm-13-sleeveless-kuchi-borkha-set",
+    "title": "SM 13 - Sleeveless Kuchi Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 850,
+    "fabric": "Almas",
+    "setIncludes": ["স্লিভলেস কুচি বোরখা", "ভেতরের ইনার পার্ট"],
+    "customizable": true
+  },
+  {
+    "id": "falah-p8",
+    "slug": "sm-61-aasiya-borkha-set",
+    "title": "SM 61 - Aasiya Full Coverage Set",
+    "category": "Khimar Set",
+    "basePrice": 1600,
+    "setIncludes": [
+      "কুচি বোরখা (Almas: ₹700 / Firdous: ₹650)",
+      "লং খিমার (ডায়মন্ড জর্জেট, অ্যাটাচ হুডি ও সাটিন বর্ডার) - ₹900",
+      "২ পার্টের বর্ডার দেওয়া নিকাব"
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p9",
+    "slug": "sm-97-kuchi-borkha-khimar-set",
+    "title": "SM 97 - Kuchi Borkha & Long Khimar Set",
+    "category": "Khimar Set",
+    "basePrice": 1600,
+    "setIncludes": [
+      "কুচি বোরখা (আলমাস কাপড়)",
+      "লং খিমার (ডায়মন্ড জর্জেট কাপড়) - শুধু হিজাব ₹900",
+      "ওয়ান পিস নিকাব"
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p10",
+    "slug": "sm-58-kuchi-borkha-saudi-niqab-set",
+    "title": "SM 58 - Chest Pleated Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 1250,
+    "singleBorkhaPrice": 850,
+    "fabric": "Almas",
+    "setIncludes": [
+      "বুকে কুচি বোরখা (বটল হাতা ও সামনে শো বোতাম)",
+      "রেডি হিজাব (২ মিটার x ৩৮ ইঞ্চি)",
+      "সৌদি নিকাব"
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p11",
+    "slug": "sm-12-almas-borkha-hijab-set",
+    "title": "SM 12 - Classic Almas Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 1350,
+    "singleBorkhaPrice": 900,
+    "fabric": "Almas",
+    "setIncludes": ["বোরখা", "রেডি হিজাব", "সৌদি নিকাব"],
+    "customizable": true
+  },
+  {
+    "id": "falah-p12",
+    "slug": "sm-69-pakiza-borkha-set",
+    "title": "SM 69 - Pakiza Borkha & Hijab Set",
+    "category": "Abaya Set",
+    "basePrice": 1500,
+    "singleBorkhaPrice": 750,
+    "singleHijabPrice": 800,
+    "fabric": "Pakiza",
+    "customizable": true
+  },
+  {
+    "id": "falah-p13",
+    "slug": "sm-35-daily-comfortable-almas-borkha",
+    "title": "SM 35 - Daily Comfortable Almas Abaya",
+    "category": "Abaya",
+    "basePrice": 1280,
+    "fabric": "Almas",
+    "customizable": true
+  },
+  {
+    "id": "falah-p14",
+    "slug": "sm-15-layered-short-borkha-set",
+    "title": "SM 15 - Layered Short Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 1250,
+    "priceVariants": [1250, 1300, 1400],
+    "setIncludes": ["বোরখা", "উপরের শর্ট বোরখা"],
+    "customizable": true
+  },
+  {
+    "id": "falah-p15",
+    "slug": "sm-73-simple-straight-cut-borkha",
+    "title": "SM 73 - Simple Straight Cut Borkha",
+    "category": "Abaya",
+    "basePrice": 600,
+    "fabricVariants": [
+      { "fabric": "Firdous", "price": 600 },
+      { "fabric": "Almas", "price": 650 }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p16",
+    "slug": "sm-17-modest-simple-almas-abaya",
+    "title": "SM 16 - Modest Simple Almas Abaya",
+    "category": "Abaya",
+    "basePrice": 800,
+    "fabric": "Almas",
+    "customizable": true
+  },
+  {
+    "id": "falah-p17",
+    "slug": "sm-57-3piece-regular-borkha-set",
+    "title": "SM 57 - 3 Piece Regular Abaya Set",
+    "category": "Abaya Set",
+    "basePrice": 1250,
+    "fabric": "Almas",
+    "freeDelivery": true,
+    "customizable": true
+  },
+  {
+    "id": "falah-p18",
+    "slug": "sm-7-classic-mother-special-set",
+    "title": "SM 7 - Simple Classic Mother Special Set",
+    "category": "Abaya Set",
+    "basePrice": 1200,
+    "fabric": "Almas",
+    "customizable": true
+  },
+  {
+    "id": "falah-p19",
+    "slug": "trending-pakiza-white-abaya",
+    "title": "Trending White Pakiza Abaya",
+    "category": "Abaya",
+    "basePrice": 1600,
+    "priceVariants": [1600, 1700],
+    "fabric": "Pakiza",
+    "color": "White",
+    "customizable": true
+  },
+  {
+    "id": "falah-p20",
+    "slug": "sm-23-pleated-abaya",
+    "title": "SM 23 - Pleated Abaya Collection",
+    "category": "Abaya",
+    "basePrice": 650,
+    "fabricVariants": [
+      { "fabric": "Firdous", "price": 650 },
+      { "fabric": "Almas", "price": 700 },
+      { "fabric": "Parada", "price": 700 },
+      { "fabric": "Seltos (Black)", "price": 850 }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p21",
+    "slug": "pure-cotton-comfortable-borkha",
+    "title": "Pure Cotton Comfortable Borkha",
+    "category": "Cotton Borkha",
+    "basePrice": 600,
+    "description": "নরম ও আরামদায়ক পিওর সুতি কাপড়ের বোরখা। ঘরে ও বাইরে পরার জন্য সেরা।",
+    "budgetVariantPrice": 500,
+    "customizable": true
+  },
+  {
+    "id": "falah-p22",
+    "slug": "sm-87-pleated-abaya-long-hijab-set",
+    "title": "SM 87 - Pleated Abaya with 2-Part Hijab",
+    "category": "Abaya Set",
+    "basePrice": 1550,
+    "fabric": "Almas",
+    "setIncludes": ["কুচি বোরখা (ব্ল্যাক)", "২ পার্ট লং হিজাব", "Nose Piece"],
+    "customizable": true
+  },
+  {
+    "id": "falah-p23",
+    "slug": "sm-101-dual-color-combination-abaya",
+    "title": "SM 101 - 2 Color Combination Abaya Set",
+    "category": "Abaya Set",
+    "basePrice": 1300,
+    "fabric": "Almas",
+    "freeDelivery": true,
+    "codExtraCharge": 50,
+    "setIncludes": [
+      "স্ট্রেইট কাটিং বোরখা",
+      "হিজাব (২ মিটার x ৩৬ ইঞ্চি)",
+      "Nose Piece"
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p24",
+    "slug": "2-color-skirt-short-borkha-set",
+    "title": "Dual Color Skirt & Short Borkha Set",
+    "category": "Abaya Set",
+    "basePrice": 1350,
+    "fabricVariants": [
+      { "fabric": "Firdous", "price": 1350 },
+      { "fabric": "Almas/Cherry Color", "price": 1500 },
+      { "fabric": "Almas Black", "price": 1550 },
+      { "fabric": "Cherry Black", "price": 1600 }
+    ],
+    "setIncludes": ["স্কার্ট", "বর্ডার যুক্ত শর্ট বোরখা", "হিজাব", "সৌদি নিকাব"],
+    "customizable": true
+  },
+  {
+    "id": "falah-p25",
+    "slug": "2-color-umbrella-cutting-abaya-set",
+    "title": "Dual Color Umbrella Cut Abaya Set",
+    "category": "Abaya Set",
+    "basePrice": 1200,
+    "fabricVariants": [
+      { "fabric": "Firdous", "price": 1200 },
+      { "fabric": "Almas/Cherry Color", "price": 1300 },
+      { "fabric": "Almas Black", "price": 1350 },
+      { "fabric": "Cherry Black", "price": 1400 }
+    ],
+    "setIncludes": [
+      "আমব্রেলা কাটিং বোরখা (২ কালার)",
+      "হিজাব (২ মিটার x ৩৮ ইঞ্চি)",
+      "সৌদি নিকাব"
+    ],
+    "customizable": true
+  },
+  {
+    "id": "falah-p26",
+    "slug": "3piece-layered-umbrella-khimar-set",
+    "title": "3 Piece Double Layer Umbrella Khimar Set",
+    "category": "Khimar Set",
+    "basePrice": 1500,
+    "fabricVariants": [
+      { "fabric": "Firdous", "price": 1500 },
+      { "fabric": "Dubai Cherry", "price": 1700 }
+    ],
+    "setIncludes": [
+      "আমব্রেলা কাটিং বোরখা",
+      "উপরের ডাবল লেয়ার আমব্রেলা ওভারলে",
+      "৩ পার্ট মিডিয়াম খিমার",
+      "১ পিস নিকাব"
+    ],
+    "customizable": true
+  }
+]

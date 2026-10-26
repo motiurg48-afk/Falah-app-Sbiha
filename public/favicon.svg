@@ -8,6 +8,6 @@
   </defs>
   <rect width="64" height="64" rx="14" fill="#0a0a0a"/>
   <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="url(#gold)" stroke-width="1.2" opacity="0.45"/>
-  <text x="32" y="45" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="38" fill="url(#gold)" text-anchor="middle">F</text>
+  <text x="32" y="45" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="38" fill="url(#gold)" text-anchor="middle">FALAH</text>
   <circle cx="49" cy="16" r="4" fill="#FFD700"/>
 </svg>
